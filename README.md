@@ -1,0 +1,1 @@
+The first day of this challenge takes a dive into core DevOps principles by utilizing various resources such as API Integration, Cloud Storage, Infrastructure as a code and more https://medium.com/@charlesamoahkc/weather-dashboard-collection-system-21d1095756cf# weatherdash
